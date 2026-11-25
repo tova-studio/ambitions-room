@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T07:45:23.040Z",
+  "slug": "ambitions-room-christchurch",
+  "name": "Ambitions Room",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Hair salons & barbers",
+    "niche": "hair salons & barbers",
+    "group": "Beauty & wellness"
+  },
+  "contact": {
+    "phone": "+6439260427",
+    "email": "ambitionsroom18@gmail.com",
+    "address": "77b Briggs Rd, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/1633799546698691"
+  },
+  "about": {},
+  "before": {
+    "score": 85,
+    "assessedAt": "2026-11-11T08:04:37.538Z",
+    "issues": [
+      {
+        "id": "no-website",
+        "title": "No website found",
+        "evidence": "No website is listed for this business in the sources searched (verify manually before outreach)."
+      }
+    ]
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/ambitions-room/",
+    "repoUrl": "https://github.com/tova-studio/ambitions-room",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T07:45:23.040Z"
+  }
+}
